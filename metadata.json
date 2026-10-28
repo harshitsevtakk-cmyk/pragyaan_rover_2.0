@@ -1,0 +1,6 @@
+{
+  "name": "Rover Control",
+  "description": "Arduino 6WD Rover and 6-Axis Robotic Arm Controller with Bluetooth Classic and real-time telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
